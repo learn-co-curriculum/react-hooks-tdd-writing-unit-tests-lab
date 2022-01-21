@@ -52,7 +52,7 @@ Then, consider adding tests for some of these edge cases:
 
 Since you'll be _writing_ the tests, this lesson doesn't have any tests for you
 to run to check your implementation. You can see both the completed tests and
-the working solution in the solution branch of this repository.
+the working solution in the [solution branch][solution] of this repository.
 
 ## Resources
 
@@ -60,3 +60,5 @@ the working solution in the solution branch of this repository.
 
 [to-be]: https://jestjs.io/docs/expect#tobevalue
 [to-throw]: https://jestjs.io/docs/expect#tothrowerror
+[solution]:
+  https://github.com/learn-co-curriculum/react-hooks-tdd-writing-unit-tests-lab/tree/solution/src
